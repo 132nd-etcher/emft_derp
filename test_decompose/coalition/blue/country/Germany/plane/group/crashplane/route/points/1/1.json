@@ -6,10 +6,17 @@
   "alt_type":"RADIO",
   "formation_template":"",
   "name":"DictKey_WptName_446",
+  "properties":{
+    "angle":0,
+    "scale":0,
+    "steer":2,
+    "vangle":0,
+    "vnav":1
+  },
   "speed":69.375,
   "speed_locked":true,
   "type":"Turning Point",
   "x":-342951.96892856,
   "y":879236.3234285699,
-  "version":13
+  "__version__":13
 }

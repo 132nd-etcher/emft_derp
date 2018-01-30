@@ -1,6 +1,6 @@
 {
   "dir":0,
   "speed":0,
-  "version":13,
+  "__version__":13,
   "__single__":true
 }

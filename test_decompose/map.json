@@ -2,6 +2,6 @@
   "centerX":-288211.83050001,
   "centerY":789869.90228572,
   "zoom":290045,
-  "version":13,
+  "__version__":13,
   "__single__":true
 }

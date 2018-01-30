@@ -9,6 +9,6 @@
   "8":true,
   "9":true,
   "10":true,
-  "version":13,
+  "__version__":13,
   "__single__":true
 }

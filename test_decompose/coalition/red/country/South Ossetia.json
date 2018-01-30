@@ -1,6 +1,6 @@
 {
   "id":19,
   "name":"South Ossetia",
-  "version":13,
+  "__version__":13,
   "__single__":true
 }

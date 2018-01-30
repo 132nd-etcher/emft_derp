@@ -1,5 +1,5 @@
 {
   "1":"if mission.trig.conditions[1]() then mission.trig.actions[1]() end",
-  "version":13,
+  "__version__":13,
   "__single__":true
 }

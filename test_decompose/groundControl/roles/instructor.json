@@ -3,6 +3,6 @@
   "name":"INSTRUCTOR",
   "neutrals":0,
   "red":2,
-  "version":13,
+  "__version__":13,
   "__single__":true
 }

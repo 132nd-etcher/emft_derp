@@ -9,6 +9,6 @@
   "8":"a_do_script_file(getValueResourceByKey(\"ResKey_Action_474\")); mission.trig.func[8]=nil;",
   "9":"a_do_script_file(getValueResourceByKey(\"ResKey_Action_349\")); mission.trig.func[9]=nil;",
   "10":"a_do_script_file(getValueResourceByKey(\"ResKey_Action_521\")); mission.trig.func[10]=nil;",
-  "version":13,
+  "__version__":13,
   "__single__":true
 }

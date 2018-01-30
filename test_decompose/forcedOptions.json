@@ -13,6 +13,6 @@
   "radio":false,
   "tips":true,
   "weapons":false,
-  "version":13,
+  "__version__":13,
   "__single__":true
 }

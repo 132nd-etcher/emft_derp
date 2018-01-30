@@ -7,10 +7,17 @@
   "alt_type":"BARO",
   "formation_template":"",
   "name":"DictKey_WptName_158",
+  "properties":{
+    "angle":0,
+    "scale":0,
+    "steer":2,
+    "vangle":0,
+    "vnav":1
+  },
   "speed":138.8888888889,
   "speed_locked":true,
   "type":"Land",
   "x":-281746.3752134,
   "y":647314.36819832,
-  "version":13
+  "__version__":13
 }

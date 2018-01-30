@@ -10,6 +10,6 @@
   "MountNVG":false,
   "RocketBurst":1,
   "WpBullseye":0,
-  "version":13,
+  "__version__":13,
   "__single__":true
 }

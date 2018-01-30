@@ -1,6 +1,6 @@
 {
   "id":43,
   "name":"Serbia",
-  "version":13,
+  "__version__":13,
   "__single__":true
 }

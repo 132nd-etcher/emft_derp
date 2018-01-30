@@ -3,5 +3,5 @@
   "flare":120,
   "fuel":3519.423,
   "gun":100,
-  "version":13
+  "__version__":13
 }

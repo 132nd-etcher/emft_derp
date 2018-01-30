@@ -2,6 +2,6 @@
   "1":"Helicopters",
   "2":"Ground Units",
   "3":"Light armed ships",
-  "version":13,
+  "__version__":13,
   "__single__":true
 }

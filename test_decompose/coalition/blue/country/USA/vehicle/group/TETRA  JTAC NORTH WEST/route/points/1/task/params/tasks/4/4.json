@@ -3,5 +3,5 @@
   "enabled":true,
   "id":"WrappedAction",
   "number":4,
-  "version":13
+  "__version__":13
 }

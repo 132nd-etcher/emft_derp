@@ -1,6 +1,6 @@
 {
   "groupId":9,
   "value":true,
-  "version":13,
+  "__version__":13,
   "__single__":true
 }

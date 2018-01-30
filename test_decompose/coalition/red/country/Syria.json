@@ -1,6 +1,6 @@
 {
   "id":47,
   "name":"Syria",
-  "version":13,
+  "__version__":13,
   "__single__":true
 }

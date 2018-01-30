@@ -5,6 +5,6 @@
   "mm":0,
   "mmint":1,
   "prob":100,
-  "version":13,
+  "__version__":13,
   "__single__":true
 }

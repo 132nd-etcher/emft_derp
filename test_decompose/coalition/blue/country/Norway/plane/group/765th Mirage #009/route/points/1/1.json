@@ -12,5 +12,5 @@
   "type":"TakeOffParking",
   "x":-314999.5,
   "y":896841.9375,
-  "version":13
+  "__version__":13
 }

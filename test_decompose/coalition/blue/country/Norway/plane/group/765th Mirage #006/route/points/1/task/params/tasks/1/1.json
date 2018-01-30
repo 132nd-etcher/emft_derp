@@ -4,5 +4,5 @@
   "id":"EngageTargets",
   "key":"CAP",
   "number":1,
-  "version":13
+  "__version__":13
 }

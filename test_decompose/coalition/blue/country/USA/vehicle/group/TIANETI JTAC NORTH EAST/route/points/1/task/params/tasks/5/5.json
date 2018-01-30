@@ -3,5 +3,5 @@
   "enabled":true,
   "id":"Hold",
   "number":5,
-  "version":13
+  "__version__":13
 }

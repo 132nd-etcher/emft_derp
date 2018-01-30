@@ -2,5 +2,5 @@
   "comment":"Mist",
   "eventlist":"",
   "predicate":"triggerOnce",
-  "version":13
+  "__version__":13
 }

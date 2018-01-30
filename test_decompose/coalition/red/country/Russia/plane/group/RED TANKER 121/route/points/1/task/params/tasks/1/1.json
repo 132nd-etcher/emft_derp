@@ -3,5 +3,5 @@
   "enabled":true,
   "id":"Tanker",
   "number":1,
-  "version":13
+  "__version__":13
 }

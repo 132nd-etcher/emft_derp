@@ -6,10 +6,17 @@
   "alt_type":"BARO",
   "formation_template":"",
   "name":"DictKey_WptName_123",
+  "properties":{
+    "angle":0,
+    "scale":0,
+    "steer":2,
+    "vangle":0,
+    "vnav":1
+  },
   "speed":69.375,
   "speed_locked":true,
   "type":"Turning Point",
   "x":-329481.25301785,
   "y":944116.69671429,
-  "version":13
+  "__version__":13
 }

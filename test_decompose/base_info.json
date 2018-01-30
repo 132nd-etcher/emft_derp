@@ -8,5 +8,6 @@
   "sortie":"DictKey_sortie_5",
   "start_time":34200,
   "theatre":"Caucasus",
-  "version":13
+  "version":13,
+  "__version__":13
 }

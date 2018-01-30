@@ -3,6 +3,6 @@
   "2":4,
   "3":1,
   "name":"Pontiac41",
-  "version":13,
+  "__version__":13,
   "__single__":true
 }

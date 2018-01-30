@@ -1,6 +1,6 @@
 {
   "ExhaustScreen":true,
   "GunnersAISkill":90,
-  "version":13,
+  "__version__":13,
   "__single__":true
 }

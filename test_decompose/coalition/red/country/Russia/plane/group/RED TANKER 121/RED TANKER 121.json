@@ -1,0 +1,16 @@
+{
+  "communication":true,
+  "frequency":251,
+  "groupId":37,
+  "hidden":false,
+  "lateActivation":true,
+  "modulation":0,
+  "name":"DictKey_GroupName_172",
+  "radioSet":false,
+  "start_time":0,
+  "task":"Refueling",
+  "uncontrolled":false,
+  "x":-51251.551717591,
+  "y":705718.47981263,
+  "version":13
+}

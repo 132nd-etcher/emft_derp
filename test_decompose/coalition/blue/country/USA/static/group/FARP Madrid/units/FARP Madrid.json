@@ -1,0 +1,14 @@
+{
+  "category":"Heliports",
+  "heading":0,
+  "heliport_callsign_id":7,
+  "heliport_frequency":"125.9",
+  "heliport_modulation":0,
+  "name":"DictKey_GroupName_405",
+  "type":"FARP",
+  "unitId":157,
+  "x":-265274.26207142,
+  "y":882043.23664286,
+  "version":13,
+  "__single__":true
+}

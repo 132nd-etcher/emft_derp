@@ -1,0 +1,15 @@
+{
+  "communication":true,
+  "frequency":237,
+  "groupId":45,
+  "hidden":false,
+  "modulation":0,
+  "name":"DictKey_GroupName_212",
+  "radioSet":true,
+  "start_time":0,
+  "task":"CAP",
+  "uncontrolled":false,
+  "x":-315002.09375,
+  "y":896718.9375,
+  "version":13
+}

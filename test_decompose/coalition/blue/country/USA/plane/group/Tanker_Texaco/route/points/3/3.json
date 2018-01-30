@@ -1,0 +1,15 @@
+{
+  "ETA":1095.1956436483,
+  "ETA_locked":false,
+  "action":"Turning Point",
+  "alt":3500.0184,
+  "alt_type":"BARO",
+  "formation_template":"",
+  "name":"DictKey_WptName_169",
+  "speed":138.8888888889,
+  "speed_locked":true,
+  "type":"Turning Point",
+  "x":-338927.40378571,
+  "y":820056.48921428,
+  "version":13
+}

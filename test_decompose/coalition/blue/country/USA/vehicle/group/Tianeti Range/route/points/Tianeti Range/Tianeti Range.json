@@ -1,0 +1,15 @@
+{
+  "ETA":0,
+  "ETA_locked":true,
+  "action":"Off Road",
+  "alt":1099,
+  "alt_type":"BARO",
+  "formation_template":"",
+  "name":"DictKey_WptName_386",
+  "speed":5.5555555556,
+  "speed_locked":true,
+  "type":"Turning Point",
+  "x":-261516.38235714,
+  "y":890846.9495,
+  "version":13
+}

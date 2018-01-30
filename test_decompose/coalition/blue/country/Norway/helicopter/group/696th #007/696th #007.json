@@ -1,0 +1,15 @@
+{
+  "communication":true,
+  "frequency":124,
+  "groupId":71,
+  "hidden":false,
+  "modulation":0,
+  "name":"DictKey_GroupName_303",
+  "radioSet":false,
+  "start_time":0,
+  "task":"CAS",
+  "uncontrolled":false,
+  "x":-315081.71657144,
+  "y":897092.74657142,
+  "version":13
+}

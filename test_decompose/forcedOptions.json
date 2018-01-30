@@ -1,0 +1,18 @@
+{
+  "civTraffic":"",
+  "cockpitVisualRM":false,
+  "easyCommunication":false,
+  "easyFlight":false,
+  "easyRadar":false,
+  "externalViews":true,
+  "fuel":false,
+  "immortal":false,
+  "labels":false,
+  "optionsView":"optview_all",
+  "padlock":false,
+  "radio":false,
+  "tips":true,
+  "weapons":false,
+  "version":13,
+  "__single__":true
+}

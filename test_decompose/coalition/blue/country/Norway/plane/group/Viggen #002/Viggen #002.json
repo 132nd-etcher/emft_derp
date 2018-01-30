@@ -1,0 +1,15 @@
+{
+  "communication":true,
+  "frequency":138.1,
+  "groupId":51,
+  "hidden":false,
+  "modulation":0,
+  "name":"DictKey_GroupName_240",
+  "radioSet":true,
+  "start_time":0,
+  "task":"Ground Attack",
+  "uncontrolled":false,
+  "x":-314996.875,
+  "y":896964.9375,
+  "version":13
+}

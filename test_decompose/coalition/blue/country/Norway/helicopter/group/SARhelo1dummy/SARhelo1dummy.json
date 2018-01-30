@@ -1,0 +1,16 @@
+{
+  "communication":false,
+  "frequency":251,
+  "groupId":94,
+  "hidden":false,
+  "lateActivation":false,
+  "modulation":0,
+  "name":"DictKey_GroupName_438",
+  "radioSet":false,
+  "start_time":0,
+  "task":"Transport",
+  "uncontrolled":false,
+  "x":-347175.61264285,
+  "y":902339.17114286,
+  "version":13
+}

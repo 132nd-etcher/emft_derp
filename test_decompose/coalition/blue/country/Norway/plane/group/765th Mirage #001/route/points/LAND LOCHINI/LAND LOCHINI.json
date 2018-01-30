@@ -1,0 +1,16 @@
+{
+  "ETA":239.0596534227,
+  "ETA_locked":false,
+  "action":"Landing",
+  "airdromeId":29,
+  "alt":471,
+  "alt_type":"BARO",
+  "formation_template":"",
+  "name":"DictKey_WptName_186",
+  "speed":138.8888888889,
+  "speed_locked":true,
+  "type":"Land",
+  "x":-315350.89092857,
+  "y":896095.76057143,
+  "version":13
+}

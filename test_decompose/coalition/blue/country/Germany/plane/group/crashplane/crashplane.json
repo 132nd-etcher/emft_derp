@@ -1,0 +1,17 @@
+{
+  "communication":true,
+  "frequency":251,
+  "groupId":96,
+  "hidden":false,
+  "lateActivation":true,
+  "modulation":0,
+  "name":"DictKey_GroupName_444",
+  "radioSet":false,
+  "start_time":0,
+  "task":"Nothing",
+  "taskSelected":true,
+  "uncontrolled":false,
+  "x":-342951.96892856,
+  "y":879236.3234285699,
+  "version":13
+}

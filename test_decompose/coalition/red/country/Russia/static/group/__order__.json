@@ -1,13 +1,13 @@
 {
-  "1":"New Static Object",
-  "2":"New Static Object #001",
-  "3":"New Static Object #002",
-  "4":"New Static Object #003",
-  "5":"New Static Object #005",
-  "6":"New Static Object #004",
-  "7":"New Static Object #006",
-  "8":"New Static Object #008",
-  "9":"New Static Object #007",
-  "10":"New Static Object #009",
-  "11":"New Static Object #010"
+  "New Static Object":1,
+  "New Static Object #001":2,
+  "New Static Object #002":3,
+  "New Static Object #003":4,
+  "New Static Object #004":6,
+  "New Static Object #005":5,
+  "New Static Object #006":7,
+  "New Static Object #007":9,
+  "New Static Object #008":8,
+  "New Static Object #009":10,
+  "New Static Object #010":11
 }
